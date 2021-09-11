@@ -1,4 +1,6 @@
-#rename script
+###rename maya outliner tool###
+
+
 import maya.cmds as cmds
 
 def renamePanel():
