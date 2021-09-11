@@ -1,3 +1,5 @@
+###auto startup of Daemons to be sure they'll work if computer gets reboted###
+
 @echo off
 
 :Start
