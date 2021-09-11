@@ -1,3 +1,5 @@
+####running a pipeline under Windows OS sometimes gives errors at mapping network ip's, using this cmd we managed to automate this process at machine startup and avoid the issue####
+
 @echo off
 
 :Start
