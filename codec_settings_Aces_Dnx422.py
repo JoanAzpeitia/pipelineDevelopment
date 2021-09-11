@@ -11,6 +11,10 @@
 """
 Hook that controls various codec settings when submitting items for review
 """
+
+##tweaked Shotgun py file to get the qt rendered in the needed settings##
+
+
 import sgtk
 import os
 import sys
